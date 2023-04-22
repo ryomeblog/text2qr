@@ -1,0 +1,15 @@
+{
+  "name": "text2qr",
+  "version": "1.0.0",
+  "description": "文字列をQRコードに変更するプロジェクト。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
